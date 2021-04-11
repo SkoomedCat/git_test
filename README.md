@@ -1,1 +1,1 @@
-This is Alex's first git project!
+This is Cats's first git project!
